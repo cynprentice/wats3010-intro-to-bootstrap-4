@@ -10,3 +10,20 @@
     flex: 0 1 auto;
    
 }
+
+/* Style buttons*/
+.btn-primary {
+    background-color: #ff0090;
+    border-color:#ff0090;
+}
+.btn-primary:hover {
+    background-color: black;
+}
+
+/* style product pages*/
+.row {
+    padding: 5%;
+}
+div.row:nth-of-type(even){
+    background-color:pink;
+}
