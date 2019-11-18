@@ -27,3 +27,12 @@
 div.row:nth-of-type(even){
     background-color:pink;
 }
+
+
+/* style visited liks */
+
+a:visited {
+    color:git#90ee90;
+
+
+}
